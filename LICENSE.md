@@ -1,4 +1,4 @@
-# 
+# updated Polymarket Addon | market-making + arbitrage-detection is the best Polymarket addon, featuring market-making and arbitrage-detection. Smart, fast, and optimized for
 
 
 
